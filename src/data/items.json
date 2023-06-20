@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dell G15 Gaming Laptop",
+    "price": 500,
+    "imgUrl": "public/imgs/G15 GamingLaptops.avif"
+  },
+  {
+    "id": 2,
+    "name": "Alienware Laptop",
+    "price": 600,
+    "imgUrl": "public/imgs/Alienware Laptop.avif"
+  },
+  {
+    "id": 3,
+    "name": "MSI katana",
+    "price": 550,
+    "imgUrl": "public/imgs/MSI katana.png"
+  },
+  {
+    "id": 4,
+    "name": "MSI Stealth",
+    "price": 700,
+    "imgUrl": "public/imgs/MSI Stealth.png"
+  }
+]
